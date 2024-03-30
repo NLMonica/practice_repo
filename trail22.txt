@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 
 "Snow white"
+=======
+"Harry_potter"
+"Lord of the Rings"
+>>>>>>> master
